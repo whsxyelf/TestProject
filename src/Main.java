@@ -5,7 +5,7 @@ public class Main {
 		//任务（在完成的地方打勾）：
 		//1.建数据库
 		//2.Springboot配置
-		//final大
+		//final大所属
 		System.out.println("牛逼！");
 
 	}
