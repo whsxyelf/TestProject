@@ -2,7 +2,10 @@
 public class Main {
 
 	public static void main(String[] args) {
-		System.out.println("小野牛逼！");
+		//任务（在完成的地方打勾）：
+		//1.建数据库
+		//2.Springboot配置
+		System.out.println("牛逼！");
 
 	}
 
